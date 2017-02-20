@@ -2,11 +2,11 @@
 
  3DS Homebrew popularity is rising every day :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before you ask, No, this is not BrowserHax 2. This is an all new homebrew entrypoint
 
-### Markdown
+### Download
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download all of the files here: 
 
 ```markdown
 Syntax highlighted code block
