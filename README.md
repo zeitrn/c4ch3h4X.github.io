@@ -11,9 +11,9 @@ Download all of the files
 ```markdown
 Syntax highlighted code block
 
-# When you
-## are all done
-### with installing stuff
+# boot.3dsx (if you have a boot.3dsx already, rename it to cachedumpboot.3dsx)
+## ARMinent (a full-on Internet Browser cache renamer)(POTENTIALLY DANGEROUS!!!)(file name is arm.bin)
+### otherapp (a payload needed for this to work)(file name is POST5.bin ---------> otherapp.bin or otherappbak.bin)
 
 - Bulleted
 - List
