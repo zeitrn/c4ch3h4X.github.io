@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CacheHAX
 
-You can use the [editor on GitHub](https://github.com/zeitrn/c4ch3h4X.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 3DS Homebrew popularity is rising every day :)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
