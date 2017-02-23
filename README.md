@@ -27,9 +27,10 @@ Syntax highlighted code block
 ```
 
 Launch HBLL: 
-### Jekyll Themes
+### get luma
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeitrn/c4ch3h4X.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Alternatives are availible like CookieHAX and DSiHAX v. 0.9b
+*better get DSiHAX since you don't need an internet connection after first use =)*
 
 ### Support or Contact
 
